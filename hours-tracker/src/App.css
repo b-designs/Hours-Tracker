@@ -53,3 +53,34 @@ h1 {
   font-size: 1.5rem;
 }
 
+button {
+  background-color: rgb(255, 199, 199);
+}
+
+.infoBox {
+  background-color: rgb(196, 196, 196);
+  width: 300px;
+  padding: 50px;
+  margin: 20px;
+}
+
+#info {
+  background-color: rgb(255, 88, 88);
+  width: 100px;
+  padding: 50px;
+  margin:auto;
+}
+
+#in {
+  background-color: rgb(88, 236, 255);
+  width: 100px;
+  padding: 50px;
+  margin:auto;
+}
+
+#out {
+  background-color: rgb(153, 252, 133);
+  width: 100px;
+  padding: 50px;
+  margin:auto;
+}
